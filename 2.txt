@@ -1,0 +1,2 @@
+Welcome to git.
+git is a powerful tool.
