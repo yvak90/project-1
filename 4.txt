@@ -1,3 +1,4 @@
 test file
+changing code to resolve a bug ## developer 2
 added some code...
 
