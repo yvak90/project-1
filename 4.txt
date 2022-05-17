@@ -1,4 +1,4 @@
 test file
-changing code to resolve a bug ## developer 2
+added new code which resolves some error ##developer 1
 added some code...
-
+added new code to resolve bug
